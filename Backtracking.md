@@ -27,7 +27,8 @@ Wyjście:
 0
 ```
 Uwaga! Zadanie ma być rozwiązane metodą przeszukiwania wyczerpującego z nawrotami.
-kod :
+
+kod:
 ```
 #include <iostream>
 #include <vector>
